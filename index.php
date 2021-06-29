@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Hello World</title>
+	<title>Index | Think</title>
 </head>
 <body>
-Hello world
+	
 </body>
 </html>
